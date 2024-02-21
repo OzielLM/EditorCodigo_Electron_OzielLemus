@@ -59,7 +59,7 @@ export default function App(){
             <Col md={{span:6}} xs={{span:6}}>
               <Editor
                 height='74vh'
-                language='swift'
+                language='javascript'
                 theme='vs-dark'
                 value={ myValue }
                 onChange={ handleEditorChange }
